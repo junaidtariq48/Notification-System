@@ -13,13 +13,14 @@ Before installation make sure you have following accounts in order to get notifi
 Please follow the following guide for installation.
 
  - `git clone`
+ - copy `.env.example` and create `.env`
  - update the `.env` file.
  - `composer install && composer update`
  - `php artisan migrate`
  - `php artisan db:seed`
 
 **Setting Up `.env` File**
-Set `.env` accordingly (e.g).
+Set `.env` accordingly (e.g). Don't forget to change database settings as well.
 ````
 APP_NAME=Notify
 APP_URL=http://localhost:8000
