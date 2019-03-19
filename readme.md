@@ -15,6 +15,10 @@ A laravel notification system help to send notifications (events & scheduled bas
 
 Before installation make sure you have following accounts in order to get notifications and make changes in `.env`.
 
+ - Nexmo (SMS)
+ - Pusher (Push Notifications)
+ - MailTrap (Mail Server)
+
 Please follow the following guide for installation.
 
  - `git clone`
