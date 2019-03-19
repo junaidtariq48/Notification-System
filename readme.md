@@ -1,3 +1,8 @@
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+
+<p align="center">
+Laravel Version: 5.8 | Php Version: 7.2.8
+</p>
 <h2 align="center"> Laravel Notification System</h2>
 
 A laravel notification system help to send notifications (events & scheduled based) to **landlord** and **tenant**.
